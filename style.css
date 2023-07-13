@@ -86,3 +86,14 @@ button:last-of-type{
     border-color: white;
     border: solid 1px;
 }
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.icons img {
+    width: 40px;
+    height: 40px;    
+}
